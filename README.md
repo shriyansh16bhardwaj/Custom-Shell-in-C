@@ -47,7 +47,6 @@ To run the project, use the provided:
 Process tree showing where the custom shell has created child processes.:
 ![Alt Text](images/tree.png)
 
-T:
 ---
 ## Author
 
