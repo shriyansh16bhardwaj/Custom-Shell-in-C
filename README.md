@@ -29,3 +29,22 @@ This project implements a simple custom shell in C, providing basic functionalit
 To compile the project, use the provided Makefile:
 ```bash
 make
+
+
+---
+
+## Run the Shell
+
+To run the project, use the provided:
+```bash
+./custom_shell
+
+---
+
+## Author
+
+Shriyansh Bhardwaj
+MT24090
+Mtech CSE 
+IIIT Delhi
+
