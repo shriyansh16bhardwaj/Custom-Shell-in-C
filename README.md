@@ -29,7 +29,7 @@ This project implements a simple custom shell in C, providing basic functionalit
 To compile the project, use the provided Makefile:
 ```bash
 make
-
+```
 
 ---
 
@@ -38,7 +38,7 @@ make
 To run the project, use the provided:
 ```bash
 ./custom_shell
-
+```
 ---
 
 ## Author
