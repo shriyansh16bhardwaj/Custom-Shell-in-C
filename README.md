@@ -40,7 +40,7 @@ To run the project, use the provided:
 ./custom_shell
 ```
 ---
-## Features
+## Author
 
 - Shriyansh Bhardwaj
 - MT24090
