@@ -17,7 +17,7 @@ This project implements a simple custom shell in C, providing basic functionalit
 ## Files
 
 ### Source Files
-- `custom_shell.c`: The main source file implementing the custom shell.
+- `shell.c`: The main source file implementing the custom shell.
 
 ### Makefile
 - Used to compile and build the project.

@@ -2,7 +2,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -O2
 TARGET = custom_shell
-SRCS = MT24090_PA01.c
+SRCS = shell.c
 OBJS = $(SRCS:.c=.o)
 
 all: $(TARGET)
